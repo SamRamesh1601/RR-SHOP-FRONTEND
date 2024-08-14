@@ -1,9 +1,17 @@
 import { useState } from 'react'
 import './App.css'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import Home from './page/home'
+import GridView from './page/gridView'
 
 function App() {
   return(
-    <div></div>
+    <Router>
+    <Routes>
+      <Route path='/main' element={<Home />}></Route>
+      <Route path='/listview' element={<GridView />}></Route>
+    </Routes>
+  </Router>
   )
 }
 
