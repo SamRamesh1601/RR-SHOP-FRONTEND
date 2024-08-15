@@ -8,7 +8,7 @@ function App() {
   return(
     <Router>
     <Routes>
-      <Route path='/main' element={<Home />}></Route>
+      <Route path='/' element={<Home />}></Route>
       <Route path='/listview' element={<GridView />}></Route>
     </Routes>
   </Router>
