@@ -1,0 +1,34 @@
+{
+  "cateogryBased": [
+    {
+      "name": "Vegetable",
+      "description": "Local Market",
+      "imagePath": "./src/assets/item-1.png"
+    },
+    {
+      "name": "Snacks & Breads",
+      "description": "Local Market",
+      "imagePath": "./src/assets/item-2.png"
+    },
+    {
+      "name": "Fruites",
+      "description": "Local Market",
+      "imagePath": "./src/assets/item-1.png"
+    },
+    {
+      "name": "Chicken",
+      "description": "Local Market",
+      "imagePath": "./src/assets/item-5.png"
+    },
+    {
+      "name": "Milk & Dairy",
+      "description": "Local Market",
+      "imagePath": "./src/assets/item.jpg"
+    },
+    {
+      "name": "Vegetable",
+      "description": "Local Market",
+      "imagePath": "./src/assets/item-1.png"
+    }
+  ]
+}

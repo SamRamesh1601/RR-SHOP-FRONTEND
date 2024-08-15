@@ -1,0 +1,92 @@
+{
+  "allCategory": [
+    "All Products",
+    "Organic Vegatables",
+    "Organic Fruits",
+    "Organic Juices",
+    "Organic Products"
+  ],
+  "allProducts": [
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    },
+    {
+      "Name": "Vegan Fresh Apple",
+      "previewImage": "<path>",
+      "Rating": 5,
+      "PrevPrice": "900",
+      "CurrentPrice": "800",
+      "isFavorite": false,
+      "category": ["sale", "hot"]
+    }
+  ]
+}
